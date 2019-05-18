@@ -10,9 +10,12 @@ Udacity Mobile Ready Web Application
 ### Description
 
 This is a fully responsive website for restaurants.
+
 Elements on the page use the appropriate semantic elements according to Web Content Accessibility Guidelines (WCAG) 2.0.
 
-When available in the browser, the site uses a service worker to cache responses to requests for site assets. Visited pages are rendered when there is no network access.
+When available in the browser, the site uses a service worker to cache responses to requests for site assets.
+
+Visited pages are rendered when there is no network access.
 
 ### Instructions
 

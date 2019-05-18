@@ -1,0 +1,46 @@
+/* ======== Responsive:; Restaurant.html ======== */
+@media (min-width: 641px) and (max-width: 768px) {
+  #breadcrumb li:first-child {
+    margin-left: 20px;
+  }
+  .inside #restaurant-container {
+    position: relative;
+    width: 50%;
+    padding: 0;
+    background-color: #fff;
+  }
+  .inside #map-container {
+    width: 50%;
+    height: auto;
+  }
+  #reviews-list {
+    width: 95%;
+    margin: 0 2.5%;
+  }
+  .inside #reviews-container h2 {
+    margin: 13px 0 7px;
+  }
+}
+
+@media (min-width: 769px) {
+  #breadcrumb li:first-child {
+    margin-left: 20px;
+  }
+  .inside #restaurant-container {
+    position: relative;
+    width: 40%;
+    padding: 0;
+    background-color: #fff;
+  }
+  .inside #map-container {
+    width: 60%;
+    height: auto;
+  }
+  #reviews-list {
+    width: 95%;
+    margin: 0 2.5%;
+  }
+  .inside #reviews-container h2 {
+    margin: 13px 0 7px;
+  }
+}
